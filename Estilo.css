@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(187, 243, 243);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+h1{
+    background-color: beige;
+    padding: 30px;
+    color: brown;
+}
+.Contenido {
+    border: solid 3px #000; /*wtf?*/
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    padding: 10px;  
+    text-align: left;
+}
